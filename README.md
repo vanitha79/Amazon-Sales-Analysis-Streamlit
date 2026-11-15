@@ -44,7 +44,7 @@ This project is an interactive sales analytics dashboard developed using Python 
 - Business Intelligence
 
 ## Project Files
-- app.py
+- main.py
 - Dataset Files
 - Dashboard Screenshots
 - Demo Video
